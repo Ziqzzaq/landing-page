@@ -169,8 +169,7 @@ ul.c-navbar li.c-navbar_right span._add-spacing {
 }
 
 .c-mainsection_jumbo--paragraph {
-    width: 438px;
-    height: 37px;
+    width: 50%;
     color: #ffffff;
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
@@ -657,7 +656,7 @@ input[type=text] {
     }
 
     .c-mainsection_jumbo--paragraph {
-        width: 60%;
+        width: 50%;
     }
 
     .c-mainsection {
